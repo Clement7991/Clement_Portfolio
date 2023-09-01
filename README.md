@@ -7,7 +7,6 @@
   <img align="right" src="https://youwritelike.streamlit.app/~/+/media/b2be1dbc3e1bb7a9cb9cbbbbedca0a47b47f338811b5521ac5224270.jpg" alt="YWL" width="200" style="margin-left: 40px;" />
 </a>
 
-
 * Group project with [Nico404](https://github.com/Nico404) and [lxmuresan](https://github.com/lxmuresan)
 * Created a tool capable of indicating which classic author's style a text resembles.
 * Used the Gutenberg API to collect raw texts from 40 different authors.
@@ -17,6 +16,15 @@
 Watch our [presentation](https://www.youtube.com/watch?v=5VZa8K2afMg&ab_channel=PouetPouet) (only in French...) and try our [app](https://youwritelike.streamlit.app) out!
 
 ### A Titanic Mistake (DS)
+<img align="right" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3drMjk5MDc4OS1pbWFnZS5qcGc.jpg" alt="A-Titanic-Mistake" width="200" height="200" style="margin-left: 40px;" />
+
+* Created an app that can predict the survival of a titanic passenger.
+* Used and preprocessed Kaggle's Titanic dataset.
+* Tested a Random Forest Classifier, an Adaboost, a KNN and an ensemble method using all three models.
+* Chose the Random Forest Classifier, gridsearched parameters and obtained an accuracy of 0.88.
+
+[Check](https://titanic-mistake.streamlit.app/) whether you would have survived. 
+
 
 ## Data Analysis projects : 
 ### A Titanic Mistake (DA)
