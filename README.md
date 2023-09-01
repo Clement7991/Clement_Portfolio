@@ -15,10 +15,11 @@
 
 Watch our [presentation](https://www.youtube.com/watch?v=5VZa8K2afMg&ab_channel=PouetPouet) (only in French...) and try our [app](https://youwritelike.streamlit.app) out!
 
-### A Titanic Mistake (DS)
+
+### [A Titanic Mistake (DS)](https://github.com/Clement7991/Titanic-hw)
 <img align="right" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3drMjk5MDc4OS1pbWFnZS5qcGc.jpg" alt="A-Titanic-Mistake" width="200" height="200" style="margin-left: 40px;" />
 
-* Created an app that can predict the survival of a titanic passenger.
+* Created an app that can predict the survival of a passenger of the Titanic.
 * Used and preprocessed Kaggle's Titanic dataset.
 * Tested a Random Forest Classifier, an Adaboost, a KNN and an ensemble method using all three models.
 * Chose the Random Forest Classifier, gridsearched parameters and obtained an accuracy of 0.88.
