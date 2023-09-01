@@ -3,7 +3,10 @@
 ## Data Science projects : 
 
 ### [YWL : You Write Like](https://github.com/Clement7991/ywl)
-<img align="right" height="220" width="220" src="https://youwritelike.streamlit.app/~/+/media/b2be1dbc3e1bb7a9cb9cbbbbedca0a47b47f338811b5521ac5224270.jpg">
+<a href="https://www.youtube.com/watch?v=5VZa8K2afMg&t=336s&ab_channel=PouetPouet">
+  <img align="right" src="https://youwritelike.streamlit.app/~/+/media/b2be1dbc3e1bb7a9cb9cbbbbedca0a47b47f338811b5521ac5224270.jpg" alt="YWL" width="200" style="margin-left: 40px;" />
+</a>
+
 
 * Group project with [Nico404](https://github.com/Nico404) and [lxmuresan](https://github.com/lxmuresan)
 * Created a tool capable of indicating which classic author's style a text resembles.
