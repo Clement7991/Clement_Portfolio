@@ -36,4 +36,4 @@ Watch our [presentation](https://www.youtube.com/watch?v=5VZa8K2afMg&ab_channel=
 * Used **Python** and **Pandas** to feature-engineer and clean data prior to analysis.
 * Used **Tableau** to create worksheets and dashboard.
 
-<img src="https://github.com/Clement7991/Clement_Portfolio/assets/129950261/c9d8ff51-fbdd-47de-b082-136ebc82c52a" alt="Olist Dashboard" width="500" height="400">
+<img src="https://github.com/Clement7991/Clement_Portfolio/assets/129950261/fe818f4a-ea1e-4073-a5fb-34933f6e81c6" alt="Olist Dashboard" width="500" height="400">
