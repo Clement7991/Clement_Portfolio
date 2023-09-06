@@ -29,4 +29,11 @@ Watch our [presentation](https://www.youtube.com/watch?v=5VZa8K2afMg&ab_channel=
 
 ## Data Analysis projects : 
 
-Work in progress ...
+### [Olist : analysing a Brazilian e-commerce platform](https://olist.com/pt-br/)
+
+* Created a dashboard based on Olist's open-source data on its customers and their orders.
+* Collected data from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+* Used **Python** and **Pandas** to feature-engineer and clean data prior to analysis.
+* Used **Tableau** to create worksheets and dashboard.
+
+<img src="https://github.com/Clement7991/Clement_Portfolio/assets/129950261/c9d8ff51-fbdd-47de-b082-136ebc82c52a" alt="Olist Dashboard" width="500" height="400">
