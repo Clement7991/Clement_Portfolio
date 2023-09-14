@@ -4,7 +4,7 @@
 
 ### [YWL : You Write Like](https://github.com/Clement7991/ywl)
 <a href="https://www.youtube.com/watch?v=5VZa8K2afMg&t=336s&ab_channel=PouetPouet">
-  <img align="right" src="logo.png" alt="YWL" width="200" style="margin-left: 40px;" />
+  <img align="right" src="ywl.png" alt="YWL" width="200" style="margin-left: 40px;" />
 </a>
 
 * Group project with [Nico404](https://github.com/Nico404) and [lxmuresan](https://github.com/lxmuresan)
