@@ -36,4 +36,4 @@ Watch our [presentation](https://www.youtube.com/watch?v=5VZa8K2afMg&ab_channel=
 * <ins>Results :</ins> Delay in delivery mostly affects states with low order volumes and has limited customer satisfaction.
 * <ins>Recommendations :</ins> Audit freight services of states with the highest average delay and sellers with recurrent delays in delivery.
 
-<img src="Olist Dashboard (7)" alt="Olist Dashboard" width="500" height="400">
+<img src="Olist Dashboard (7).png" alt="Olist Dashboard" width="500" height="400">
