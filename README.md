@@ -31,9 +31,9 @@ Watch our [presentation](https://www.youtube.com/watch?v=5VZa8K2afMg&ab_channel=
 
 ### [Olist : analysing a Brazilian e-commerce platform](https://olist.com/pt-br/)
 
-* Created a dashboard based on Olist's open-source data on its customers and their orders.
-* Collected data from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-* Used **Python** and **Pandas** to feature-engineer and clean data prior to analysis.
-* Used **Tableau** to create worksheets and dashboard.
+* <ins>Hypothesis :</ins> Delay in delivery has an impact on Olist's churn.
+* <ins>Methodology :</ins> collected data from [**Kaggle**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), explored, cleaned the data and feature-engineered using **Python**, used **Tableau** to create a dashboard.
+* <ins>Results :</ins> Delay in delivery mostly affects states with low order volumes and has limited customer satisfaction.
+* <ins>Recommendations :</ins> Audit freight services of states with the highest average delay and sellers with recurrent delays in delivery.
 
 <img src="Olist DB.png" alt="Olist Dashboard" width="500" height="400">
