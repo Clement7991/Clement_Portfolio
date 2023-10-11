@@ -7,7 +7,7 @@
 
 * Guided-project from **DeepLearning.ai** available on [**Coursera**](https://www.coursera.org/learn/ai-and-climate-change?specialization=ai-for-good)
 * <ins>Objective :</ins> Predict wind power output at least 24 hours in advance in order to better plan the requirements for other power input sources into the electrical grid.
-*<ins>Methodology :</ins> Explored, cleaned and normalized the data (**Pandas**, **Seaborn**, **Matplotlib**...), created a baseline model to then compare with the performance of a Neural Network 
+* <ins>Methodology :</ins> Explored, cleaned and normalized the data (**Pandas**, **Seaborn**, **Matplotlib**...), created a baseline model to then compare with the performance of a Neural Network 
 * <ins>Chosen model :</ins> PyTorch RegressorNet (L1 loss + Adam Optimizer)
 
 ### [YWL : You Write Like](https://github.com/Clement7991/ywl)
