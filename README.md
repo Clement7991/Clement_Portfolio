@@ -2,6 +2,14 @@
 
 ## Data Science projects : 
 
+### [Wind Power Forecasting](https://github.com/Clement7991/Wind_forecasting)
+<img align="right" src="windturbine.jpg" alt="Wind Power" width="200" height="200" style="margin-left: 40px;" />
+
+* Guided-project from **DeepLearning.ai** available on [**Coursera**](https://www.coursera.org/learn/ai-and-climate-change?specialization=ai-for-good)
+* <ins>Objective :</ins> Predict wind power output at least 24 hours in advance in order to better plan the requirements for other power input sources into the electrical grid.
+*<ins>Methodology :</ins> Explored, cleaned and normalized the data (**Pandas**, **Seaborn**, **Matplotlib**...), created a baseline model to then compare with the performance of a Neural Network 
+* <ins>Chosen model :</ins> PyTorch RegressorNet (L1 loss + Adam Optimizer)
+
 ### [YWL : You Write Like](https://github.com/Clement7991/ywl)
 <a href="https://www.youtube.com/watch?v=5VZa8K2afMg&t=336s&ab_channel=PouetPouet">
   <img align="right" src="ywl.png" alt="YWL" width="200" style="margin-left: 40px;" />
