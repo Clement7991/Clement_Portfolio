@@ -58,4 +58,7 @@ Check the [dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgzMzY0ZDMtZmZiZS0
 * <ins>Results :</ins> Delay in delivery mostly affects states in the north west of Brazil with low order volumes and has limited impact on customer satisfaction. 
 * <ins>Recommendations :</ins> Audit freight services of states with the highest average delay and sellers with recurrent delays in delivery.
 
-<img src="Olist Dashboard (7).png" alt="Olist Dashboard" width="500" height="400">
+Interact with the dashboard [here](https://public.tableau.com/views/Olist_16939080170350/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) !
+
+
+<img src="Olist Dashboard.png" alt="Olist Dashboard" width="500" height="400">
