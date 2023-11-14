@@ -39,8 +39,7 @@ Watch our [presentation](https://www.youtube.com/watch?v=5VZa8K2afMg&ab_channel=
 
 ### [Energy & CO2 Emissions : A Global Analysis](https://app.powerbi.com/groups/me/reports/c6def853-a898-4400-b343-7679df12a3d7?ctid=dbf392d3-8e2b-4202-b4f9-e05692d171aa&pbi_source=linkShare&bookmarkGuid=c8a365c8-9441-4eea-ae85-15ff9459e103)
 
-* <ins>Objective :</ins> Draw an educational and comparative report on the role power generation plays in each country's CO2 emissions volume.
-* <ins>Objective :</ins>Achieve an exploratory analysis of the global state of carbon emissions.
+* <ins>Objective :</ins> Draw an educational and comparative report on the role power generation plays in each country's CO2 emissions volume and achieve an exploratory analysis of the global state of carbon emissions.
 * <ins>Methodology :</ins> collected data from [**Kaggle**](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy), explored and cleaned the data using **Python**, used Powerpoint for design, **HTML** for flag visuals and **PowerBI** to create a dashboard.
 
 Check the [dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgzMzY0ZDMtZmZiZS00MmVjLWI2ZDEtYzU2NTM2MDdlNDFlIiwidCI6ImRiZjM5MmQzLThlMmItNDIwMi1iNGY5LWUwNTY5MmQxNzFhYSJ9) out!
